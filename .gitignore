@@ -5,7 +5,7 @@ Homestead.json
 .env
 .htaccess
 favicon.ico
-readme.md
+
 server.php
 phpunit.xml
 .[oa]
